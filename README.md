@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Hyeonji,Oh!
 
 <!--
 **ohj4312/ohj4312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
